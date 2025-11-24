@@ -1,6 +1,5 @@
-# mitchelldjans 
-# <p align="center">This text is centered.</p>
+# <p align="center">Mitchell D. Jans </p>
 
-Hello, This is testing a line without any pound signs in front. 
+Hello, my is Mitchell and I am a 4th year PhD Candidate in the Interfacial Water Group at Princeton University 
 
 ## Test
