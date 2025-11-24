@@ -1,6 +1,10 @@
 <p align="center"> Mitchell D. Jans </p>
 
-Hello, my name is Mitchell and I am a 4th year PhD Candidate in the Interfacial Water Group at Princeton University
+Hello, my name is Mitchell!! I am a 4th year PhD Candidate in the Interfacial Water Group at Princeton University. I am advised by Professor Ian Bourg 
 
 
-## Test
+## Mineralogical Insights in Soft Geophysical Flows and Sediment Transport Dynamics
+
+## Water Quality Impacts in Temperate Lakes and Rivers
+
+## Improving Engineering Insights to Reduce Anthropogenic Impact to Natural Aqueous Systems
