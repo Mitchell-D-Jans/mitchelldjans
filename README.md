@@ -7,10 +7,11 @@
 
 <center>
   <img src="/Self.jpg" style="width:50%;">
-</center>
-
+</center>  
+ 
+<center>
 I earned my Bachelor of Science in Civil Engineering from the University of Minnesota Duluth in 2022, followed by a Master of Arts in Civil and Environmental Engineering from Princeton University in 2024.   
-
+</center>
 ## Mineralogical Insights in Soft Geophysical Flows and Sediment Transport Dynamics
 
 ## Water Quality Impacts in Temperate Lakes and Rivers
