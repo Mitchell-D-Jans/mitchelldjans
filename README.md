@@ -15,12 +15,16 @@
   followed by a Master of Arts in Civil and Environmental Engineering from Princeton University in 2024.
 </p>
 
-
+# Research Interests
 ## Mineralogical Insights in Soft Geophysical Flows and Sediment Transport Dynamics
-
+### Impact Clay Minerals have on Sediment Gravity Flows
+### Impact Clay Content has on Sediment Bed Erodibility
 ## Water Quality Impacts in Temperate Lakes and Rivers
-
+### Historic Water Quality 
+### Monitoring Surface Water Quality
 ## Improving Engineering Insights to Reduce Anthropogenic Impact to Natural Aqueous Systems
+### Biochar Application to reduce Methyl Mercury Bioaccumulation from Moderately Contaminated Sediments
+### Biopolymer Application to reduce Sediment Erodibility
 
 ## My Accounts
 [My LinkedIn](https://www.linkedin.com/in/mitchelljans/)  
