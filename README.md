@@ -21,8 +21,7 @@
 ## Flow Test Video
 
 <video width="640" controls>
-  <source src="SGF Example.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="SGFExample.mp4" type="video/mp4">
 </video>
 
 ### Impact Clay Content has on Sediment Bed Erodibility
