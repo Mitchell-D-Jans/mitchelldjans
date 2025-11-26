@@ -20,9 +20,10 @@
 ### Impact Clay Minerals have on Sediment Gravity Flows
 ## Flow Test Video
 
-<video width="640" controls>
+<video width="640" autoplay loop muted playsinline>
   <source src="SGFExample.mp4" type="video/mp4">
 </video>
+
 
 ### Impact Clay Content has on Sediment Bed Erodibility
 ## Water Quality Impacts in Temperate Lakes and Rivers
