@@ -18,7 +18,6 @@
 # Research Interests
 ## Mineralogical Insights in Soft Geophysical Flows and Sediment Transport Dynamics
 ### Impact Clay Minerals have on Sediment Gravity Flows
-## Flow Test Video
 
 <video width="640" autoplay loop muted playsinline>
   <source src="SGFExample.mp4" type="video/mp4">
